@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eeeb8e8f-45d4-475e-8972-5d9bb103874b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/1908复习.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aa/aaa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/关系1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/无标题-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/无标题-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zhanghang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/浅拷贝_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/深拷贝_3.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="a41b0711-2c54-46e1-93a8-12259d32fcdf" />
+  <component name="ProjectId" id="1W0MTV9RygHGLCt0RAAfJocXu9U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\running\PycharmProjects\1908复习\images" />
+      <recent name="C:\Users\running\PycharmProjects\1908复习" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.demo24">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="1908复习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1908复习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo22.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1908复习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo23.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1908复习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo24.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="1908复习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zhanghang" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1908复习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zhanghang.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.zhanghang" />
+      <item itemvalue="Python.practice" />
+      <item itemvalue="Python.demo22" />
+      <item itemvalue="Python.demo23" />
+      <item itemvalue="Python.demo24" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo24" />
+        <item itemvalue="Python.demo23" />
+        <item itemvalue="Python.demo22" />
+        <item itemvalue="Python.practice" />
+        <item itemvalue="Python.zhanghang" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eeeb8e8f-45d4-475e-8972-5d9bb103874b" name="Default Changelist" comment="" />
+      <created>1578282066550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578282066550</updated>
+      <workItem from="1578897212182" duration="1887000" />
+      <workItem from="1585831859877" duration="12197000" />
+      <workItem from="1586263992180" duration="1600000" />
+      <workItem from="1652069355572" duration="8456000" />
+      <workItem from="1652184259563" duration="2123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="405" y="186" key="#Notifications" timestamp="1652184676435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="405" y="186" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1652184676435" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1652094464092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1652094464092" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1652184550529">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1652184550529" />
+    <state x="555" y="261" key="Github.ShareDialog" timestamp="1652185566234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="555" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1652185566234" />
+    <state x="426" y="66" width="367" height="595" key="Github.UntrackedFilesDialog" timestamp="1652185576765">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="426" y="66" width="367" height="595" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1652185576765" />
+    <state width="1323" height="213" key="GridCell.Tab.0.bottom" timestamp="1652095289435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1652095289435" />
+    <state width="1323" height="213" key="GridCell.Tab.0.center" timestamp="1652095289435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1652095289435" />
+    <state width="1323" height="213" key="GridCell.Tab.0.left" timestamp="1652095289434">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1652095289434" />
+    <state width="1323" height="213" key="GridCell.Tab.0.right" timestamp="1652095289435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1652095289435" />
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom" timestamp="1652095289435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1652095289435" />
+    <state width="1323" height="213" key="GridCell.Tab.1.center" timestamp="1652095289435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1652095289435" />
+    <state width="1323" height="213" key="GridCell.Tab.1.left" timestamp="1652095289435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1652095289435" />
+    <state width="1323" height="213" key="GridCell.Tab.1.right" timestamp="1652095289435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="213" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1652095289435" />
+    <state x="416" y="65" key="RollbackChangesDialog" timestamp="1652186011673">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="416" y="65" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1652186011673" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1652184563999">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1652184563999" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1652186188574">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1652186188574" />
+    <state x="486" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1652185041233">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="486" y="276" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1652185041233" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo12.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo23.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/1908$zhanghang.coverage" NAME="zhanghang Coverage Results" MODIFIED="1586264544160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1908$demo23.coverage" NAME="demo23 Coverage Results" MODIFIED="1652094695193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1908$demo19.coverage" NAME="demo19 Coverage Results" MODIFIED="1586090619139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1908$practice.coverage" NAME="practice Coverage Results" MODIFIED="1652091308850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1908$demo22.coverage" NAME="demo22 Coverage Results" MODIFIED="1652094412887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
